@@ -28,12 +28,9 @@ function whileLoop(n)
 function doWhileLoop(num)
 { 
   var i=0;
-  if(num === 0){
-  do
+  if(num === 0)
   {
-  console.log("I run once regardless.")
-  }while(i === 0);
-    
+  console.log("I run once regardless.");
   }
   
  if(num ==10){
